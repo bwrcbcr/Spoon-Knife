@@ -1,3 +1,5 @@
 This file was added to the first fork of the SpoonKnife project.
 
 Added this line to the version in the master branch
+
+Added this line while changes were made to the other branch.
