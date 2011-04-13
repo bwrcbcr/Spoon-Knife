@@ -2,4 +2,12 @@ This file was added to the first fork of the SpoonKnife project.
 
 Added this line to the version in the master branch
 
+Combined the following from two merges:
+{
 Added this line while changes were made to the other branch.
+} and {
+Added this line to the version in the bcr_work branch, hoping to merge into
+the master branch.
+
+New change
+}
